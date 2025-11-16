@@ -1,4 +1,4 @@
-#2025/11/15 ECPS205 Final Project... KEVIN_LEE
+#2025/11/15 ... KEVIN_LEE
 from picamera2 import Picamera2, Preview
 import time as time
 
